@@ -1,9 +1,9 @@
 <template>
     <div class="gallery">
-      <!-- Baris Foto -->
+   
       <div class="photo-row">
         <div v-for="(photo, index) in photos" :key="index" class="photo-item">
-          <!-- Overlay Header -->
+          
           <div class="photo-header">
             <a 
               :href="`https://instagram.com/${photo.username}`" 
@@ -15,7 +15,7 @@
               <span class="instagram-name">@{{ photo.username }}</span>
             </a>
           </div>
-          <!-- Foto -->
+         
           <img :src="photo.image" :alt="`Photo ${index + 1}`" class="photo" />
         </div>
       </div>
