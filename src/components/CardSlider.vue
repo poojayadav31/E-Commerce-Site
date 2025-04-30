@@ -16,7 +16,7 @@
               <p>{{ item.name }}</p>
             </div>
             <div class="card-price">
-              <p>${{ item.price }}.00</p>
+              <p>₹{{ item.price }}.00</p>
             </div>
           </div>
     </div>
@@ -31,10 +31,10 @@ export default {
   data() {
     return {
       images: [
-       { image: "mickey1.jpg", title: "T O P S", name: "Guangzhou Sweater", price: "₹2,380" },
-       { image: "mickey1.jpg", title: "B A G", name: "Ethereal Wraps", price: "₹5,740" },
-       { image: "mickey1.jpg", title: "O U T E R", name: "Aristo Coats", price: "₹5,040" },
-       { image: "mickey1.jpg", title: "A C C E S S O R I E S", name: "Velvet Whispers", price: "₹3,020" }
+       { image: "product-3.jpg", title: "T O P S", name: "Pink Wise", price:"230" },
+       { image: "product-7.jpg", title: "B A G", name: "Luggage", price:"540" },
+       { image: "mickey1.jpg", title: "O U T E R", name: "Carry Outer Bag", price: "540" },
+       { image: "product-9.jpg", title: "A C C E S S O R I E S", name: "Shoes", price: "320" }
       ],
     };
   },
