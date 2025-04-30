@@ -3,7 +3,7 @@
     <div class="footer-container">
       <!-- Logo Section -->
       <div class="footer-brand">
-        <img src="/img/blog/logo_website_Ecom_white.png" alt="Ecom Logo" class="footer-logo" />
+        <img src="/img/blog/logo_website_ecom_white.png" alt="Ecom Logo" class="footer-logo" />
         <p>Address: Raipur, Chhattisgarh, India</p>
         <p>Phone: 9131617558</p>
         <p>Email: hello.ecom@gmail.com</p>
