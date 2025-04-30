@@ -3,10 +3,10 @@
     <div class="footer-container">
       <!-- Logo Section -->
       <div class="footer-brand">
-        <img src="../../public/img/blog/logo_website_ecom_white.png" alt="Ecom Logo" class="footer-logo" />
+        <img src="../public/img/blog/logo_website_ecom_white.png" alt="Ecom Logo" class="footer-logo" />
         <p>Address: Raipur, Chhattisgarh, India</p>
         <p>Phone: 9131617558</p>
-        <p>Email: hello.Ecom@gmail.com</p>
+        <p>Email: hello.ecom@gmail.com</p>
         <div class="social-icons">
           <a href="https://www.facebook.com"><font-awesome-icon :icon="['fab', 'facebook']" class="icon" /></a>
           <a href="https://www.instagram.com/poojayadav_31/"><font-awesome-icon :icon="['fab', 'instagram']" class="icon" /></a>
